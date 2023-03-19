@@ -1,6 +1,6 @@
 # simple_clicker_webgame
 
-<img src="![craiyon_224347_crypto_smasher_clicker_web_game](https://user-images.githubusercontent.com/123137984/226151161-033772f8-3b7d-49c2-9993-103ae8d42970.png)" width="500" height="300">
+<img src="(https://user-images.githubusercontent.com/123137984/226151161-033772f8-3b7d-49c2-9993-103ae8d42970.png)" width="500" height="300">
 
 ![craiyon_224347_crypto_smasher_clicker_web_game](https://user-images.githubusercontent.com/123137984/226151161-033772f8-3b7d-49c2-9993-103ae8d42970.png)
 
