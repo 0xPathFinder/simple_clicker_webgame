@@ -32,11 +32,12 @@ bitcoin.addEventListener("click", function(){
     document.getElementById("score").textContent = score;
 
     // decrement interval
-    interval = interval - 10;
+    interval = interval - 25;
     document.getElementById("interval").textContent = interval;
 
     // clear previous interval and start new one
     clearInterval(intervalID);
+    moveBitcoin();
     intervalID = setInterval(moveBitcoin, interval);
 });
 
